@@ -3,6 +3,19 @@
 > The codes for the work "Hybrid Shunted Transformer Embedding UNet
 > for Remote Sensing Image Semantic Segmentation"
 
+## Requirement
+```text
+matplotlib==3.3.4
+numpy==1.19.2
+Pillow==9.2.0
+tifffile==2020.10.1
+timm==0.4.12
+torch==1.10.2
+torchsummary==1.5.1
+torchvision==0.11.3
+tqdm==4.63.0
+```
+
 ## Training
 
 ```shell
