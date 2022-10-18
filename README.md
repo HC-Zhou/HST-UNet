@@ -16,6 +16,9 @@ torchvision==0.11.3
 tqdm==4.63.0
 ```
 
+## Model
+![图片](HST-UNet.png)
+
 ## Training
 
 ```shell
