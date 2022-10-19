@@ -1,5 +1,5 @@
 matplotlib==3.3.4
-numpy==1.19.2
+numpy==1.22.0
 Pillow==9.2.0
 tifffile==2020.10.1
 timm==0.4.12
