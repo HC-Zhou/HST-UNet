@@ -81,8 +81,8 @@ tqdm==4.63.0
 |     MsanlfNet      |     123.13     |         79.86%          |  **87.65%**   |       69.38%        |   65.38%   |   72.29%   |   74.91%   |   85.66%   |
 | **HST-Unet(Ours)** |     112.11     |       **80.28%**        |    87.18%     |     **69.74%**      | **71.05%** |   78.56%   | **77.36%** | **87.09%** |
 
-## Checkpt
+## Citation
+```
+Zhou, H., Xiao, X., Li, H. et al. Hybrid Shunted Transformer embedding UNet for remote sensing image semantic segmentation. Neural Comput & Applic (2024). https://doi.org/10.1007/s00521-024-09888-4
+```
 
-The checkpoints can be found
-at [Google Drive](https://drive.google.com/drive/folders/1cs84JBY7JLlUVanKiMxIEMBqL9Yed6jm?usp=sharing),
-[Baidu Pan](https://pan.baidu.com/s/1HXR9CZforKhz2aPuSHulsg)(code:dti5)
